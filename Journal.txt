@@ -1,1 +1,11 @@
 *** DAY 1 *** (09.09.2024)
+Today I've learned the basics of HTML.
+HTML is HyperText Markup Language used to structure a webpage. 
+HTML uses elements. 
+An element is formed by opening tag, closing tag and content between them. 
+Example: <p>This is a paragraph</p>.
+There are also void elements (a.k.a self-closing tags). They have no content and cannot have any child nodes.
+Other commonly used tags/elements are lists, links, images, divs, etc.
+You can use forms and input fields to collect user information such as email, name, etc.
+Tables are a great option to display data on the page.
+Overall a great learning day! Keep it up!
